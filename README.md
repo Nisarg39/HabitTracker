@@ -9,7 +9,7 @@ Track your habits everyday .
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/Nisarg39/HabitTracker.git)
+  git clone https://link-to-project](https://github.com/Nisarg39/HabitTracker.git
 ```
 
 Go to the project directory
